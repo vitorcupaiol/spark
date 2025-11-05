@@ -1,4 +1,4 @@
-FROM openjdk:11-jdk
+FROM adoptopenjdk/openjdk11:jdk-11.0.20_8
 
 ARG spark_version="3.5.0"
 ARG spark_home="/opt/spark"
