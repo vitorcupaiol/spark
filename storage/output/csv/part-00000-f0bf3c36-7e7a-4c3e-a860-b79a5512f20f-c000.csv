@@ -1,0 +1,82 @@
+name,cuisine_type,city,country,average_rating,num_reviews,popularity_score
+da Bandeira-Rameira Restaurante,Indian,Lontras,BR,3.1,2029,4.42
+Paes S.A. Restaurante,Italian,Guarará,BR,4.2,4020,8.42
+Fontes LTDA Restaurante,Indian,Júlio Mesquita,BR,4.3,5018,9.63
+Barreto EIRELI Restaurante,French,Astorga,BR,0.2,6030,0.49
+Viana-Videira Restaurante,Italian,Wenceslau Guimarães,BR,2.0,7132,5.34
+Mendes LTDA Restaurante,Italian,Correntina,BR,1.4,1463,1.69
+"Ornelas, Barreto e da Aldeia Restaurante",American,Cardeal da Silva,BR,4.7,7164,12.58
+Coqueiro EIRELI Restaurante,Japanese,Iúna,BR,1.0,8385,2.9
+Camacho LTDA Restaurante,Chinese,Mara Rosa,BR,0.7,7255,1.89
+Mendanha LTDA Restaurante,Chinese,Rafael Godeiro,BR,2.2,5575,5.19
+Vimaranes LTDA Restaurante,French,Engenheiro Beltrão,BR,2.1,6544,5.37
+Fontes-Teles Restaurante,Italian,Aroeiras,BR,0.7,110,0.23
+Meireles LTDA Restaurante,Italian,Ibiassucê,BR,1.6,1133,1.7
+Costa LTDA Restaurante,American,Clevelândia,BR,3.4,9547,10.51
+Velasques e Associados Restaurante,Indian,Campos Novos Paulista,BR,3.5,5026,7.85
+Teles S.A. Restaurante,Indian,São Miguel de Taipu,BR,5.0,9901,15.73
+Solimões-Lobos Restaurante,Mexican,Ilhéus,BR,3.4,4832,7.47
+Assumpção-Sanches Restaurante,Italian,São Benedito do Rio Preto,BR,3.8,6611,9.77
+Novaes S.A. Restaurante,Chinese,Barras,BR,1.3,7921,3.66
+"Viana, Neves e Simão Restaurante",American,Onda Verde,BR,0.9,1140,0.96
+Costa-Sais Restaurante,French,Laranja da Terra,BR,3.2,6747,8.31
+Sais-Banheira Restaurante,Italian,Indaiatuba,BR,0.6,8182,1.72
+Soares-Ramalho Restaurante,American,Alto Paraná,BR,1.6,816,1.45
+Vasques-Barbosa Restaurante,Italian,Teixeira Soares,BR,0.5,782,0.44
+"Pimenta, Godins e Paiva Restaurante",French,Vista Alegre do Prata,BR,4.3,1265,4.84
+"Saraiva, Tavares e Veloso Restaurante",Chinese,Buri,BR,1.6,1237,1.78
+"da Rosa, da Mota e da Barranca Restaurante",Chinese,Uniflor,BR,3.9,4759,8.51
+Sais-Amoreira Restaurante,French,Sumé,BR,2.1,8096,5.98
+Sanches-Resende Restaurante,American,Ibirapitanga,BR,0.0,9221,0.0
+"Moniz, Banheira e Pinto Restaurante",American,São João de Iracema,BR,1.3,7000,3.44
+"Siqueira, da Madureira e Franco Restaurante",American,Rolândia,BR,0.7,9167,2.12
+da Gama Comércio Restaurante,French,Itapagipe,BR,3.2,5564,7.55
+Marques e Associados Restaurante,Indian,Silves,BR,4.8,4070,9.68
+Bittencourt-Geraldes Restaurante,Indian,São Miguel do Aleixo,BR,1.1,5318,2.54
+da Nóbrega Comércio Restaurante,Japanese,Potirendaba,BR,2.9,513,2.08
+Batista S.A. Restaurante,Japanese,Matias Cardoso,BR,3.7,2264,5.57
+"Carvalheira, Peres e Marques Restaurante",Japanese,Taquari,BR,1.5,7070,3.99
+Gonçalves-Leiria Restaurante,Mexican,Sud Mennucci,BR,4.3,8707,12.69
+de Assunção e Associados Restaurante,Japanese,Jacarezinho,BR,3.5,5723,8.37
+Casqueira LTDA Restaurante,Chinese,Santo Afonso,BR,2.2,3993,4.4
+Fernandes LTDA Restaurante,American,Igaporã,BR,4.5,6943,11.86
+"Arriaga, da Rocha e Espinheira Restaurante",French,Igaratinga,BR,1.2,8841,3.57
+"Castanheira, Ximenes e Aguiar Restaurante",Indian,Vitorino Freire,BR,4.0,740,3.44
+Pereira LTDA Restaurante,Chinese,Goiatuba,BR,3.5,9210,10.62
+Corrêa Comércio Restaurante,Italian,Ubatã,BR,1.5,4862,3.31
+Henriques EIRELI Restaurante,Indian,Turvelândia,BR,4.1,2191,6.07
+da Penha Comércio Restaurante,American,Setubinha,BR,0.6,9917,1.89
+Martim LTDA Restaurante,French,Varjota,BR,4.0,2783,6.67
+Gonçalves-Diegues Restaurante,Chinese,Bastos,BR,2.7,5146,6.12
+Barreto-Silveira Restaurante,American,Quixeré,BR,2.9,4873,6.4
+"Hermingues, Godinho e Gomide Restaurante",Indian,Urandi,BR,3.6,4588,7.71
+Siqueira Comércio Restaurante,Chinese,Salto do Jacuí,BR,0.5,2437,0.78
+Arriaga LTDA Restaurante,American,Surubim,BR,3.1,13,0.35
+da Fonseca-Taveira Restaurante,American,Victor Graeff,BR,4.9,300,2.68
+Caseira Comércio Restaurante,Japanese,Capela,BR,2.3,527,1.67
+"Galvão, Corrêa e Domingues Restaurante",American,Turuçu,BR,4.5,6615,11.57
+Campos EIRELI Restaurante,American,Chapadão do Sul,BR,4.9,2221,7.3
+Castro Comércio Restaurante,French,Ribeirão Branco,BR,4.2,6202,10.46
+"Dorneles, Goulart e Quaresma Restaurante",Indian,Jundiá,BR,0.9,8425,2.61
+Soeira-Meireles Restaurante,French,Mutunópolis,BR,2.4,9722,7.48
+Marins e Associados Restaurante,Mexican,Jaicós,BR,5.0,5974,12.22
+Muniz-da Silveira Restaurante,Mexican,Ritápolis,BR,3.8,9894,11.95
+Ferreira-Castanho Restaurante,Italian,São João da Boa Vista,BR,2.6,8101,7.4
+Simões EIRELI Restaurante,Italian,Soledade,BR,0.2,5198,0.46
+"Arantes, Nogueira e Paiva Restaurante",Chinese,Ituberá,BR,3.5,1533,4.33
+Costa-Nogueira Restaurante,French,Francisco Sá,BR,0.7,4380,1.46
+Cabreira-Roriz Restaurante,Indian,Faria Lemos,BR,2.3,7921,6.47
+Ribeira-da Rosa Restaurante,French,Cotiporã,BR,2.7,6612,6.94
+Pinheira-Pinheira Restaurante,Japanese,Buritama,BR,2.3,6324,5.78
+Ferraço e Associados Restaurante,Italian,Derrubadas,BR,0.5,1646,0.64
+"Cardoso, Viveiros e Filgueira Restaurante",Italian,Bom Despacho,BR,3.1,9422,9.52
+Corte-Matoso Restaurante,Chinese,São José de Princesa,BR,1.7,771,1.49
+Banheira S.A. Restaurante,Chinese,Bernardo Sayão,BR,3.3,467,2.26
+"Albuquerque, Rolim e Carneiro Restaurante",American,Tucano,BR,2.8,3787,5.45
+Espinheira Comércio Restaurante,Chinese,Pauini,BR,0.7,7584,1.93
+"Ornelas, Martim e da Cunha Restaurante",Indian,Joaíma,BR,1.4,479,0.97
+Ramires-Rocha Restaurante,Mexican,Teotônio Vilela,BR,1.3,5919,3.16
+"Barata, Rolim e Carvalheira Restaurante",Indian,Valentim Gentil,BR,3.0,9180,9.09
+Rêgo LTDA Restaurante,Mexican,Icaraí de Minas,BR,3.1,6563,7.94
+Ferraço-Santana Restaurante,Mexican,Cachoeira,BR,3.3,7007,8.74
+Castro-Alves Restaurante,American,Rio Maria,BR,1.9,6765,4.94

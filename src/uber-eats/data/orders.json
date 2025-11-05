@@ -1,0 +1,10 @@
+{"order_id": "ORD-001", "customer_id": "CUST-101", "restaurant_id": "REST-501", "total_amount": 35.50, "items_count": 3, "distance_km": 2.5, "restaurant_rating": 4.2, "order_date": "2023-05-10"}
+{"order_id": "ORD-002", "customer_id": "CUST-102", "restaurant_id": "REST-502", "total_amount": 24.99, "items_count": 2, "distance_km": 3.7, "restaurant_rating": 4.5, "order_date": "2023-05-10"}
+{"order_id": "ORD-003", "customer_id": "CUST-103", "restaurant_id": "REST-503", "total_amount": 52.25, "items_count": 4, "distance_km": 1.2, "restaurant_rating": 3.8, "order_date": "2023-05-11"}
+{"order_id": "ORD-004", "customer_id": "CUST-104", "restaurant_id": "REST-501", "total_amount": 18.75, "items_count": 1, "distance_km": 4.0, "restaurant_rating": 4.2, "order_date": "2023-05-11"}
+{"order_id": "ORD-005", "customer_id": "CUST-105", "restaurant_id": "REST-504", "total_amount": 67.30, "items_count": 5, "distance_km": 5.2, "restaurant_rating": 4.7, "order_date": "2023-05-12"}
+{"order_id": "ORD-006", "customer_id": "CUST-101", "restaurant_id": "REST-505", "total_amount": 42.15, "items_count": 3, "distance_km": 1.8, "restaurant_rating": 4.0, "order_date": "2023-05-12"}
+{"order_id": "ORD-007", "customer_id": "CUST-106", "restaurant_id": "REST-502", "total_amount": 29.95, "items_count": 2, "distance_km": 3.1, "restaurant_rating": 4.5, "order_date": "2023-05-13"}
+{"order_id": "ORD-008", "customer_id": "CUST-107", "restaurant_id": "REST-506", "total_amount": 15.50, "items_count": 1, "distance_km": 0.8, "restaurant_rating": 3.5, "order_date": "2023-05-13"}
+{"order_id": "ORD-009", "customer_id": "CUST-108", "restaurant_id": "REST-507", "total_amount": 78.45, "items_count": 6, "distance_km": 6.5, "restaurant_rating": 4.8, "order_date": "2023-05-14"}
+{"order_id": "ORD-010", "customer_id": "CUST-109", "restaurant_id": "REST-508", "total_amount": 22.80, "items_count": 2, "distance_km": 2.2, "restaurant_rating": 3.9, "order_date": "2023-05-14"}
