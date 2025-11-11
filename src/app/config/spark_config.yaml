@@ -1,0 +1,31 @@
+# Common settings for all environments
+common:
+  spark.sql.adaptive.enabled: "true"
+  spark.serializer: org.apache.spark.serializer.KryoSerializer
+  spark.network.timeout: 800s
+
+# Development environment
+dev:
+  spark.master: local[*]
+  spark.driver.memory: 2g
+  spark.sql.shuffle.partitions: 10
+  spark.ui.port: 4040
+
+# Test environment
+test:
+  spark.master: yarn
+  spark.submit.deployMode: client
+  spark.executor.instances: 2
+  spark.executor.memory: 4g
+  spark.yarn.queue: test
+
+# Production environment
+prod:
+  spark.master: yarn
+  spark.submit.deployMode: cluster
+  spark.executor.instances: 10
+  spark.executor.memory: 16g
+  spark.driver.memory: 8g
+  spark.dynamicAllocation.enabled: true
+  spark.dynamicAllocation.minExecutors: 5
+  spark.dynamicAllocation.maxExecutors: 20
